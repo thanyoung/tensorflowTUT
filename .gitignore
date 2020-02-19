@@ -1,0 +1,7 @@
+## ignore this fie##
+/target/
+/src/test/
+.idea
+.project
+.settings
+/test/
